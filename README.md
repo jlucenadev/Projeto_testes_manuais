@@ -79,11 +79,16 @@ Arquivo: **casos_de_teste.xlsx**
 
 Inclui:
 - ID  
+- Funcionalidade
+- Caso de teste
 - Pré-condições  
 - Passos detalhados  
-- Dados de teste  
 - Resultado esperado  
-- Status da execução (Pass/Fail)  
+- Resultado obtido
+- severidade
+- Prioridade
+- Tipo de teste
+- status 
 
 ---
 
@@ -91,12 +96,13 @@ Inclui:
 Arquivo: **checklist_funcional.xlsx**
 
 Inclui:
-- Elementos da interface  
-- Comportamentos  
-- Navegação  
-- Links e botões  
-- Formulários  
-- Mensagens de erro e sucesso  
+- Credenciais (login válido/inválido)
+- Mensagens (erro, obrigatoriedade, sucesso)
+- Fluxos completos (cadastro, checkout)
+- Navegação (páginas de produto)
+- Interações (adicionar/remover do carrinho)
+- Responsividade (interface)
+- Performance (tempo de carregamento)  
 
 ---
 
