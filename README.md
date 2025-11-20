@@ -1,0 +1,2 @@
+# 01-testes-manuais-mercado-livre/
+Este projeto foi desenvolvido com o objetivo de demonstrar minhas habilidades em testes manuais, planejamento de testes, análise de requisitos e documentação detalhada. Escolhi o Mercado Livre como aplicação-alvo por ser uma plataforma real, ampla e rica em fluxos críticos, permitindo uma análise completa do comportamento do sistema.  O projeto simula um ciclo real de QA, incluindo criação de cenários, casos de teste, checklist, evidências e relatório de bugs.
